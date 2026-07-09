@@ -91,8 +91,6 @@ CompanyHub
 ├── CompanyHub.Infrastructure
 │
 ├── CompanyHub.Persistence
-│
-└── CompanyHub.Tests
 ```
 
 ---
@@ -319,17 +317,7 @@ _Add Screenshot_
 
 _Add Screenshot_
 
----
 
-# 🧪 Testing
-
-Unit Tests are implemented using:
-
-- xUnit
-- Moq
-- FluentAssertions
-
-Current coverage includes core business services.
 
 ---
 
