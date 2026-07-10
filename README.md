@@ -310,17 +310,14 @@ Main Modules:
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
-**Mahmoud Abdelsamed**
-
+**Mahmoud Abdelsamed**  
 Backend .NET Developer
 
-- LinkedIn
-- GitHub
-- Email
-
----
+[![GitHub](https://img.shields.io/badge/GitHub-Mahmoudah25-181717?logo=github&logoColor=white)](https://github.com/Mahmoudah25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud%20Abdelsamed-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-abdel-samed-9b3b642b7)
+[![Email](https://img.shields.io/badge/Email-Mahmoudandelsamed%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:Mahmoudandelsamed@gmail.com)
 
 ## ⭐ Support
 
