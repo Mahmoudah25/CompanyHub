@@ -170,12 +170,6 @@ Key Design Principles:
 
 - Swagger / OpenAPI
 
-### Testing
-
-- xUnit
-- Moq
-- FluentAssertions
-
 ---
 
 # 🚀 Getting Started
@@ -300,24 +294,6 @@ Main Modules:
 - Notifications
 - Audit Logs
 - Usage Records
-
----
-
-# 📸 Screenshots
-
-### Swagger API
-
-_Add Screenshot_
-
-### Database Diagram
-
-_Add Screenshot_
-
-### Dashboard
-
-_Add Screenshot_
-
-
 
 ---
 
